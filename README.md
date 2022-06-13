@@ -10,4 +10,6 @@ Dovrò poi rifare un sistema di backup.
         c) table.bat
  2. Organizer:
    Organizer è un file bat che permette di creare diverse cartelle per poter sviluppare vari file batch; farne una copia e restituire un file di log.
+ 3. Nella Cartella debloater: una raccolta di script, sia powershell che batch, trovati in rete e di mia ideazione, per eseguire l'attività di debloating e
+    manutenzione di Windows. In Windows11 funziona, per ora, solo la pulizia dei file temporanei.
         
